@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/rahul21chavan](https://github.com/rahul21chavan)
 
-- 💬 Ask me about **Spark, aws, SQL, Python**
+- 💬 Ask me about **Spark, AWS, SQL, Python, Scala, Gen-ai**
 
 - 📫 How to reach me **Rcchavan663@gmail.com**
 
