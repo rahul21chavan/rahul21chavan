@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahul21chavan&label=Profile%20views&color=0e75b6&style=flat" alt="rahul21chavan" /> </p>
 
-- 🔭 I’m currently working on **Apache Spark Migration**
+- 🔭 I’m currently working on **Apache Spark Migration**.
 
-- 🌱 I’m currently learning **Generative Ai/ Rag agent**
+- 🌱 I’m currently learning **Generative Ai/ Rag agent**.
 
 - 👨‍💻 All of my projects are available at [https://github.com/rahul21chavan](https://github.com/rahul21chavan)
 
-- 💬 Ask me about **Spark, AWS, SQL, Python, Scala, Gen-ai**
+- 💬 Ask me about **Spark, AWS, SQL, Python, Scala, Gen-ai**.
 
 - 📫 How to reach me **Rcchavan663@gmail.com**
 
