@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **Rcchavan663@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/rahul21chavan/My_CV/blob/main/Rahul-Chavan_AWS_DE.pdf](https://github.com/rahul21chavan/My_CV/blob/main/Rahul-Chavan_AWS_DE.pdf)
+- 📄 Know about my experiences [https://github.com/rahul21chavan/My_CV/blob/main/Rahul_Chavan_1.6-yr_DE.docx]
 
 - ⚡ Fun fact **I enjoy exploring new data visualization techniques and often participate in hackathons to challenge myself and learn new skills.**
 
