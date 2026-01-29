@@ -60,5 +60,4 @@ If you want detailed reproductions, check the project folders where I attach not
 - Email: (add your contact email here)
 
 ---
-
-If you want this README tailored for a specific project in the repo (e.g., add project list, badges, or quickstart instructions), tell me which project folder to reflect and I will update accordingly.
+Thank you!
